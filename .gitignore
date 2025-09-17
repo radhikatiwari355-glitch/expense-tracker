@@ -1,0 +1,21 @@
+# Ignore Node.js dependencies
+backend/node_modules/
+frontend/node_modules/
+
+# Ignore environment variables
+backend/.env
+frontend/.env
+
+# Ignore React build folder
+frontend/build/
+
+# Ignore log files
+*.log
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore editor/IDE settings
+.vscode/
+.idea/
